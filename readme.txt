@@ -1,11 +1,11 @@
 === Mechanic Who's Online Visitor ===
 
 Contributors: adityasubawa
-Donate link: http://www.adityawebs.com
+Donate link: http://www.adityasubawa.com
 Tags: whos online, online visitor, online user, who is online visitor, simple online visitor
 Requires at least: 3.2
 Tested up to: 3.4.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 very simple who's online visitor plugins enables you to track number of visitors online in an easy to install.  
 
@@ -41,13 +41,17 @@ fix title widgets
 
 = 1.1 =
 
+upgrade to 1.2
+
+= 1.2 =
+
 Plug-in is now compatible upto wordpress version 3.4.
 
 == Credits ==
 
-[Aditya Subawa](http://www.adityawebs.com/) - This plugin was created by Aditya Subawa. If you like this widget and would like to donate to help support new versions of this widget you can do so at the <a href="http://www.adityawebs.com">support center</a> website.
+[Aditya Subawa](http://www.adityasubawa.com/) - This plugin was created by Aditya Subawa. If you like this widget and would like to donate to help support new versions of this widget you can do so at the <a href="http://www.adityasubawa.com">support center</a> website.
 
 == Contact ==
 
-If you need help, support or would just like to provide your comments and suggestions you may visit us online at <a href="http://www.adityawebs.com">my personal website</a> or <a href="http://balimechanicweb.net">web design</a> support center.
+If you need help, support or would just like to provide your comments and suggestions you may visit us online at <a href="http://www.adityasubawa.com">my personal website</a> or <a href="http://balimechanicweb.net">web design</a> support center.
 

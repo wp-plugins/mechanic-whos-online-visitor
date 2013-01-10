@@ -3,14 +3,14 @@
 Plugin Name: Mechanic Who's Online Visitor
 Plugin URI: http://www.balimechanicweb.net/24-products/wordpress/plugins/42-mechanic-who-s-online-visitor
 Description: Display Who's Online Visitor on WordPress as a Widgets
-Version: 1.1
+Version: 1.2
 Author: Aditya Subawa
-Author URI: http://www.adityawebs.com
+Author URI: http://www.adityasubawa.com
 */
 global $wpdb;
 define('WO_TABLE_NAME', $wpdb->prefix . 'mech_whonline');
 define('WO_PATH', ABSPATH . 'wp-content/plugins/whosmechanic');
-require_once(ABSPATH . '/wp-includes/pluggable.php');
+require_once(ABSPATH . 'wp-includes/pluggable.php');
 
 function woadit_install(){
 global $wpdb;
@@ -149,7 +149,7 @@ else {
 };
 	 if ($authorcredit) { ?>
 			<p style="font-size:10px;">
-				Plugins by <a href="http://balimechanicweb.net" title="Bali Web Design">Bali Web Design</a>
+				Plugins by <a href="http://www.adityasubawa.com" title="Bali Web Design">Bali Web Design</a>
 			</p>
 			<?php }
 	echo $after_widget;
