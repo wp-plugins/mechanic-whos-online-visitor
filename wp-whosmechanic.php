@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Mechanic Who's Online Visitor
-Plugin URI: http://www.balimechanicweb.net/24-products/wordpress/plugins/42-mechanic-who-s-online-visitor
+Plugin URI: http://www.adityasubawa.com/blog/post/62/install-mechanic-whos-online-visitor-wordpress.html
 Description: Display Who's Online Visitor on WordPress as a Widgets
-Version: 1.2
+Version: 1.3
 Author: Aditya Subawa
 Author URI: http://www.adityasubawa.com
 */

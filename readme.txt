@@ -5,7 +5,7 @@ Donate link: http://www.adityasubawa.com
 Tags: whos online, online visitor, online user, who is online visitor, simple online visitor
 Requires at least: 3.2
 Tested up to: 3.4.1
-Stable tag: 1.2
+Stable tag: 1.3
 
 very simple who's online visitor plugins enables you to track number of visitors online in an easy to install.  
 
@@ -41,11 +41,11 @@ fix title widgets
 
 = 1.1 =
 
-upgrade to 1.2
+upgrade to 1.3
 
-= 1.2 =
+= 1.3 =
 
-Plug-in is now compatible upto wordpress version 3.4.
+Plug-in is now compatible upto wordpress version 3.5.1
 
 == Credits ==
 
